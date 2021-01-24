@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a part of the edX - HarvardX Data Science course. According many available reports credit card frauds costed financial institutions a wooping 28 billion dollars just in 2018. Recent years we see a lot of development in cashless/digital transaction technologies for example ApplePay and GoogleWallet that will bring us to chaseless future very soon. Fraud transaction cost can put a lot of pressure on the financial institutions since it is not only loss due to the fraud itself, there is also cost associated with managing losses, cost of managing frustrated customers, cost of potential losing the business and many more. That is why many financial organizations are facing the challenge of building a successful fraud detection model which can flag fraudulent transactions with very small false-negative and false-positive results.
+This project is a part of the edX - HarvardX Data Science course. According many available reports credit card frauds costed financial institutions a stagering 28 billion dollars just in 2018. Recent years we see a lot of development in cashless/digital transaction technologies for example ApplePay and GoogleWallet that will bring us to chaseless future very soon. Fraud transaction cost can put a lot of pressure on the financial institutions since it is not only loss due to the fraud itself, there is also cost associated with managing losses, cost of managing frustrated customers, cost of potential losing the business and many more. That is why many financial organizations are facing the challenge of building a successful fraud detection model which can flag fraudulent transactions with very small false-negative and false-positive results.
 
 ## Goal
 
