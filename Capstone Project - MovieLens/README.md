@@ -13,4 +13,4 @@ The project goal was to create a machine learning model that can predict movie r
 
 In this project the MovieLens 10M data set was used. The data set was created by GroupLens research that has collected and made it available. The data set has 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users.
 
-### Please check PDF report for the detailed project overview and data exploration and resutls
+### Please check PDF report for the detailed project overview, data exploration and resutls
